@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOURADI Salah</h1>
-<h3 align="center">A passionate Full Stack Developer and Data Science enthusiast from Morocco</h3>
+<h3 align="center">A passionate Full Stack Developer and Data Science enthusiast</h3>
 
 - 📫 How to reach me **sallah.mouradi19@gmail.com**
 
