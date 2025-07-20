@@ -45,12 +45,13 @@
 
 ---
 
+
 <h2>🌟 Featured Projects</h2>
 <ul>
-  <li><a href="https://github.com/MouradiSalah/AI-Chatbot">AI-Chatbot</a> - Intelligent chatbot using NLP and ML.</li>
-  <li><a href="https://github.com/MouradiSalah/Portfolio">Portfolio</a> - My personal portfolio website.</li>
-  <li><a href="https://github.com/MouradiSalah/Data-Science-Projects">Data Science Projects</a> - A collection of my data science works.</li>
-  <li><a href="https://github.com/MouradiSalah/FullStack-Boilerplate">FullStack Boilerplate</a> - Starter template for full stack apps.</li>
+  <li><a href="https://github.com/MouradiSalah/Express.ts">Express.ts</a> – TypeScript-first, Express-like HTTP server framework.</li>
+  <li><a href="https://github.com/MouradiSalah/terminusMenu">terminusMenu</a> – Terminus menu for Red Dead Redemption 2 (C++).</li>
+  <li><a href="https://github.com/MouradiSalah/E-Commerce-Project">E-Commerce-Project</a> – Full-stack e-commerce app (Next.js & Spring Boot).</li>
+  <li><a href="https://github.com/MouradiSalah/petfinderApi">petfinderApi</a> – Angular project integrating the Petfinder API.</li>
 </ul>
 
 ---
