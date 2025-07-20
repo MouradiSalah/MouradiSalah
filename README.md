@@ -40,7 +40,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouradiSalah&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouradiSalah&layout=compact&theme=radical" alt="Top Languages" height="120"/>
+  <img src="https://github-readme-statistics-kappa.vercel.app/api/top-langs/?username=MouradiSalah&layout=compact&theme=radical" alt="Top Languages" height="120"/>
 </p>
 
 ---
