@@ -53,9 +53,3 @@
   <li><a href="https://github.com/MouradiSalah/E-Commerce-Project">E-Commerce-Project</a> – Full-stack e-commerce app (Next.js & Spring Boot).</li>
   <li><a href="https://github.com/MouradiSalah/petfinderApi">petfinderApi</a> – Angular project integrating the Petfinder API.</li>
 </ul>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MouradiSalah&label=Profile%20views&color=36BCF7&style=flat" alt="profile views"/>
-</p>
