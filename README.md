@@ -37,7 +37,7 @@
 <h2>📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-statistics-kappa.vercel.app/api?username=MouradiSalah&show_icons=true&theme=radical" alt="MouradiSalah's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouradiSalah&theme=radical" alt="GitHub Streak" height="180"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MouradiSalah" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img src="https://github-readme-statistics-kappa.vercel.app/api/top-langs/?username=MouradiSalah&layout=compact&theme=radical" alt="Top Languages" height="120"/>
