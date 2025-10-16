@@ -15,6 +15,7 @@
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=MouradiSalah&label=PROFILE+VIEWS)
 
 <h2>🚀 About Me</h2>
 
